@@ -12,6 +12,8 @@
 % git clone {repo address}
 % cd {repo name}
 % vi README.MD
+```
+
 
 ## How to start
 
